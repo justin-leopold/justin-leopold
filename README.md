@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justin-leopold
 - 👀 I’m interested in learning new skills, finding inefficient processes, introducing automation and anything else that improves outcomes.
-- 🌱 I’m currently learning Golang, VMWare NSX, Kubernetes, Rancher/Longhorn, Citrix ADC, and AWS.
-- 🌱 I'm confident in my skills using PowerShell, VMware vSphere, Cisco UCS, and Python.
+- 🌱 I’m currently learning Golang, Javascript, Kubernetes, Rancher/Longhorn, Nasuni, Portworx
+- 🌱 I'm confident in my skills using PowerShell, VMware vSphere, Cisco UCS, AWS, and Python.
 - 📫 How to reach me ... justinaleopold@gmail.com
